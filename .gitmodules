@@ -1,5 +1,5 @@
 [submodule "user_service"]
-    path = user_service
-    url = https://github.com/v8zolotarev/user-service.git
+	path = user_service
+	url = https://github.com/v8zolotarev/user-service.git
 
 
